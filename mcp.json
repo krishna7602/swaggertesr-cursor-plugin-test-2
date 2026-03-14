@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "swaggertesr": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sse",
+        "https://swaggertest-9zdxgot5h-r-krishna-mondals-projects.vercel.app/sse"
+      ]
+    }
+  }
+}
